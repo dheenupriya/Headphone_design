@@ -10,6 +10,8 @@ All unicodes are printed by pressing ctrl + shift + U + (unicodeno.)
 Instead of typing unicode to generate symobols or emojis - we can copy the emoji from net
 and paste it insite print() in python
 
+Ouput of image of python code: ![Headphone_image](output_headphone_image.png)
+
 Check out my code.
 Hope you understand and love this code.
 Thankyou.
